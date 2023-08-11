@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *CodePath Pre-Wrok*
 
-Submitted by: **Your Name Here**
+Submitted by: Rohit Narwal
 
-**Name of your app** is an app that... [TODO] 
+CodePath Pre-Wrok is an app that has my name, my university's name, what I want to be in future, and a button that can change the background color when clicked.
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -31,10 +31,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I was little stuck when make the functionality for the button to change background color.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [Rohit Narwal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
