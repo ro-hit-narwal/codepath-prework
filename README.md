@@ -27,6 +27,21 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+1. YOUTUBE
+   - Multiple videos in a single frame.
+   - Upload my own content.
+   - Watch reels as well as large videos.
+   - Comment on other people's content.
+2. INSTAGRAM
+   - Multiple reels in a single frame on different topics or similar topic.
+   - Make my own reels.
+   - Upload a short story for a temporary time period.
+   - Upload Multiple photos.
+   - Able to Comment on other people's photos and get comments on my own.
+3. SNAPCHAT
+   - Watch Reels.
+   - Send a quick photo or reel to my friends.
+   - Upload a story or a picture for a short time period.
 
 ## Notes
 
