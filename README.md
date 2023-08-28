@@ -4,7 +4,7 @@ Submitted by: Rohit Narwal
 
 CodePath Pre-Wrok is an app that has my name, my university's name, what I want to be in future, and a button that can change the background color when clicked.
 
-Time spent: 1 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
