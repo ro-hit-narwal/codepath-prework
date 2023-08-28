@@ -43,6 +43,9 @@ GIF created with ...
    - Send a quick photo or reel to my friends.
    - Upload a story or a picture for a short time period.
 
+APP IDEA:
+I would like to build an app for my university where I will upload videos teaching data structures. In the app, there will be multiple video widgets showcasing the content, and when we click the video widget, it will take us to a new page with the video playing, a comments section, and a share button. I will use DataBase to store the videos, and I want to make this app specifically for students who want a self-paced environment.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
